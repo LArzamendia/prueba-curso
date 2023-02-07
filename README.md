@@ -1,2 +1,1 @@
-# prueba-curso
-repositorio de prueba para el curso inicial
+Este es el proyecto de prueba para crear un repositorio y clonarlo a mi computadora con GitHub
